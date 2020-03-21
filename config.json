@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "yourRootPassword",
+    "database": "events_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "yourRootPassword",
+    "database": "events_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "dg5raor5cqhfufiq",
+    "password": "kqqx0eirohj2v7jd",
+    "database": "yps8nqliyc12y57f",
+    "host": "dno6xji1n8fm828n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
+  }
+}
