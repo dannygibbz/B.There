@@ -2,6 +2,11 @@
 
 ### This is an event calendar generator app, which utilizes the Eventful API. It is built in an MVC model. The goal behind this application is to create a space where a user can store all of the events they're interested in, without having to deal with a third party website.
 
+
+![image](https://user-images.githubusercontent.com/55450945/81483782-bc071680-920e-11ea-81d3-71c8d85dd3ae.png)
+
+
+
 ## User Story
 
 - I want to use a calendar platform
